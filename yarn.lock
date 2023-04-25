@@ -461,10 +461,10 @@
     lodash "^4.17.4"
     read-pkg-up "^7.0.0"
 
-"@tammergard/prettier-config@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@tammergard/prettier-config/-/prettier-config-2.0.0.tgz#d2982372728c28ab6e4efda92ea8a2e3acabec82"
-  integrity sha512-btdjGQ8/70ILacX4bjLgEWO8mZ8Vh46kcKTBvzDqht9SsmqOmfRSJlDR2rsWRYHasx09ijbSFcamk+QdEQXbOg==
+"@tammergard/prettier-config@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@tammergard/prettier-config/-/prettier-config-2.0.1.tgz#c771ace054209d4bba9920857e07a44bde60b65b"
+  integrity sha512-00aCh4bfuueHKGlkSnEwi7biIIDAV7bnLP6PlA/7HDPSTQfajLzn4wnvctVFRBKfjW40nLwCLs7PUSwuTuP+jw==
 
 "@tammergard/semantic-release-config-npm@1.2.0":
   version "1.2.0"
